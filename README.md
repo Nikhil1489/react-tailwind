@@ -44,3 +44,13 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Tailwind Instructions
+for tailwind see
+https://github.com/Nikhil1489/react-tailwind
+
+for tailwind config
+use tailwind.config.js file
+
+use this command to see the generated css file, for build react-script will automatically generate the css
+ npx tailwindcss -i ./src/index.css -o ./src/app.css --watch
